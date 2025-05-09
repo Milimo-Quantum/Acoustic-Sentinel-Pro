@@ -66,7 +66,7 @@
 2.  **Open your terminal and navigate to the directory where you saved `acoustic_sentinel_enhanced.py`.**
 3.  **Run the Streamlit application:**
     ```bash
-    streamlit run acoustic_sentinel_enhanced.py
+    streamlit run app.py
     ```
 4.  **The application will open in your default web browser.**
 
