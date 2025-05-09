@@ -3,6 +3,8 @@
 **Version:** 1.1
 **Description:** An advanced audio analysis application built with Streamlit, enabling users to record or upload audio, perform detailed frequency analysis, and discuss the results with AI language models (supporting local Ollama and cloud-based OpenRouter).
 
+![Acoustic Sentinel Pro Screenshot](1.png)
+
 ## Features
 
 *   **Flexible Audio Input:**
